@@ -1,0 +1,50 @@
+dotnet .(entrar no programa)
+dotnet 
+
+
+
+
+
+
+
+
+
+Nome do modelo                                   Nome Curto           Idioma      Tags
+-----------------------------------------------  -------------------  ----------  -------------------------------------
+Aplicativo do Console                            console              [C#],F#,VB  Common/Console
+Aplicativo do Windows Forms                      winforms             [C#],VB     Common/WinForms
+Aplicativo WPF                                   wpf                  [C#],VB     Common/WPF
+Arquivo de Configuração da Web                   webconfig                        Config
+arquivo de dotnet gitignore                      gitignore                        Config
+Arquivo de manifesto da ferramenta local Dotnet  tool-manifest                    Config
+Arquivo de Solução                               sln                              Solution
+Arquivo EditorConfig                             editorconfig                     Config
+arquivo global.json                              globaljson                       Config
+ASP.NET Core Empty                               web                  [C#],F#     Web/Empty
+ASP.NET Core gRPC Service                        grpc                 [C#]        Web/gRPC
+ASP.NET Core Web API                             webapi               [C#],F#     Web/WebAPI
+ASP.NET Core Web App                             webapp,razor         [C#]        Web/MVC/Razor Pages
+ASP.NET Core Web App (Model-View-Controller)     mvc                  [C#],F#     Web/MVC
+ASP.NET Core with Angular                        angular              [C#]        Web/MVC/SPA
+ASP.NET Core with React.js                       react                [C#]        Web/MVC/SPA
+ASP.NET Core with React.js and Redux             reactredux           [C#]        Web/MVC/SPA
+Biblioteca de Classes                            classlib             [C#],F#,VB  Common/Library
+Biblioteca de Classes do Windows Forms           winformslib          [C#],VB     Common/WinForms
+Biblioteca de Controles do Windows Forms         winformscontrollib   [C#],VB     Common/WinForms
+Blazor Server App                                blazorserver         [C#]        Web/Blazor
+Blazor WebAssembly App                           blazorwasm           [C#]        Web/Blazor/WebAssembly/PWA
+Configuração do NuGet                            nugetconfig                      Config
+MSTest Test Project                              mstest               [C#],F#,VB  Test/MSTest
+MVC ViewImports                                  viewimports          [C#]        Web/ASP.NET
+MVC ViewStart                                    viewstart            [C#]        Web/ASP.NET
+NUnit 3 Test Item                                nunit-test           [C#],F#,VB  Test/NUnit
+NUnit 3 Test Project                             nunit                [C#],F#,VB  Test/NUnit
+Protocol Buffer File                             proto                            Web/gRPC
+Razor Class Library                              razorclasslib        [C#]        Web/Razor/Library/Razor Class Library
+Razor Component                                  razorcomponent       [C#]        Web/ASP.NET
+Razor Page                                       page                 [C#]        Web/ASP.NET
+Worker Service                                   worker               [C#],F#     Common/Worker/Web
+WPF Class library                                wpflib               [C#],VB     Common/WPF
+WPF Custom Control Library                       wpfcustomcontrollib  [C#],VB     Common/WPF
+WPF User Control Library                         wpfusercontrollib    [C#],VB     Common/WPF
+xUnit Test Project                               xunit                [C#],F#,VB  Test/xUnit
